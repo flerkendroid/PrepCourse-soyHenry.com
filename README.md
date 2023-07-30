@@ -1,4 +1,3 @@
-# PrepCourse-soyHenry.com
-Este es un repositorio del módulo 2 del PrepCourse de soyHenry.com
+#flerkendroid
 
-El repositorio de Github fue clonado correctamente en el Escritorio local
+Este repositorio de Github se ha clonado correctamente en el Escritorio local.  
