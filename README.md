@@ -1,3 +1,3 @@
 #flerkendroid
 
-Este repositorio de Github se ha clonado correctamente en el Escritorio local.  
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde github a mi computador.
